@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=ganeshkumar269&show_icons=true&theme=midnight-purple&line_height=24" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumar269&layout=compact&theme=midnight-purple" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumar269&exclude_repo=arl-cnn,colabnotebooks&layout=compact&theme=midnight-purple" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ganeshkumar269&theme=onedark&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
