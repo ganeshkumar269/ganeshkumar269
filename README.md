@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <!-- from amitojsingh366/amitojsingh366/readme.md -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=ganeshkumar269&show_icons=true&theme=midnight-purple&line_height=24" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=ganeshkumar269&hide=issues,contribs&show_icons=true&theme=midnight-purple&line_height=24" />
 </a>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumar269&exclude_repo=arl-cnn,colabnotebooks&layout=compact&theme=midnight-purple" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumar269&exclude_repo=arl-cnn,colabnotebooks&hide=c&layout=compact&theme=midnight-purple" />
 </a>
 
 <br/>
